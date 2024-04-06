@@ -18,7 +18,7 @@ This repository contains a custom dark theme for the STUBA AIS website, created 
 <details> 
   <summary><h2>📸 Screenshots</h2></summary>
   
-![Screenshot 1](scr1.png)
+![Screenshot 1](scr1_v2.png)
 ![Screenshot 2](scr2.png)
 ![Screenshot 3](scr3.png)
 
